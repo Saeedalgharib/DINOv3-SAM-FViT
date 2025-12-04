@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+timm
+transformers
+tensorflow
+pillow
+scikit-learn
+matplotlib
+seaborn
+tqdm
+numpy
+glob2
