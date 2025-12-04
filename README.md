@@ -30,5 +30,3 @@ The framework is applied to chest X-ray datasets such as **RSNA Pneumonia**.
 
 ---
 
-## 📂 File Structure
-
