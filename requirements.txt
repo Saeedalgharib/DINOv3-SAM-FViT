@@ -3,8 +3,7 @@ torchvision
 torchaudio
 timm
 transformers
-tensorflow
-pillow
+Pillow
 scikit-learn
 matplotlib
 seaborn
